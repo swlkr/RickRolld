@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Rick Roll</string>
+    <string name="main_title">Super Awesome Ninja Battle 3D</string>
+    <string name="rick_roll_label">New Game</string>
+</resources>
